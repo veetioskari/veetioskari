@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @veetioskari
 - 👀 I’m interested in web and software developing
-- 🌱 I’m currently learning basics of python and java script.
+- 🌱 I’m currently learning basics of python and javascript.
 - 📫 veeti.bark@gmail.com
 
 <!---
