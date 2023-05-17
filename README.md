@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @veetioskari
-- 👀 I’m interested in web and software developing
-- 🌱 I’m currently learning basics of python and javascript.
-- 📫 veeti.bark@gmail.com
 
 <!---
 veetioskari/veetioskari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
